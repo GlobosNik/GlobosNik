@@ -1,4 +1,4 @@
-# Welcome! I am Nikhil Bhaktha.
+# NIKHIL BHAKTHA 
 
 🎓 **Electronics Engineering Student**  
 🔬 **Robotics Enthusiast** | 🛠️ DIY Project Maker (8+ years with Arduino & ESP32)
