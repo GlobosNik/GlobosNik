@@ -21,6 +21,7 @@
 - **Embedded C** & **C++**
 - **Python** (projects, scripting)
 - **HTML** (basics)
+- **Bash Scripting** (basics)
 - **Embedded Systems** & **IoT**
 
 ---
